@@ -26,3 +26,5 @@ We collect and use technical data of your device, software, and system. While yo
     We may also have our co-brands such as charities or sponsors and some certain services may provide to you in association with them. So, the protected information can be transferred. 
 
 3.	Legal reasons: We can share your personal data for legal and administrative reasons. We corporate with our government, so when demanded by legal law enforcement we share your personal data which may include your name, IP address, mobile number, address and etc.
+
+4. Informations like user physical Device location , Notification and call option acceptable .
